@@ -14,4 +14,7 @@ Play on [play.unity.com](https://play.unity.com/mg/other/unity-tutorial-pachinko
 
 # Junior Programmer Pathway
 ### Prototype 1
-In development ...
+Basic truck that you can drive forward and back, turning left and right to go down the road and avoid obstacles.
+
+### Challenge 1
+Basic airplane that you can flying up and down to avoid obstacles.
