@@ -28,3 +28,8 @@ Play on [play.unity.com](https://play.unity.com/mg/other/webgl-builds-399295)
 Basic airplane that you can flying up and down to avoid obstacles.<br/>
 Play on [play.unity.com](https://play.unity.com/mg/other/webgl-builds-399305)
 <br/><img src="https://github.com/lluancarlo/UnityLearnProjects/assets/32052204/5fc09e91-a441-4276-9deb-45b437f06dbd" width="600" />
+
+### Prototype 2
+Feed animals running towards you with pizza!.<br/>
+Play on [play.unity.com](https://play.unity.com/mg/other/webgl-builds-399314)
+<br/><img src="https://github.com/lluancarlo/UnityLearnProjects/assets/32052204/fbe27df5-afa3-4b56-a9bb-03221f737dc3" width="600" />
