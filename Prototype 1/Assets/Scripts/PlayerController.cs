@@ -14,5 +14,11 @@ public class PlayerController : MonoBehaviour
 		horizontalInput = Input.GetAxis("Horizontal");
 		transform.Translate(Vector3.forward * Time.deltaTime * speed * verticalInput);
 		transform.Rotate(Vector3.up, Time.deltaTime * turnSpeed * horizontalInput);
+
+		if (transform.position.y < -10f)
+		{
+			transform.position = Vector3.up * 2f;
+			transform.rotation = new Quaternion();
+		}
 	}
 }
