@@ -39,3 +39,7 @@ Send dogs to catch the ball falling!.<br/>
 Play it [HERE](https://play.unity.com/mg/other/webgl-builds-399482) !
 <br/><img src="https://github.com/lluancarlo/UnityLearnProjects/assets/32052204/02172d48-3d45-45ae-b4eb-684d3efdedf4" width="600" />
 
+### Mod the Cube
+A cube that has random color every time you play it.<br/>
+Play on [play.unity.com](https://play.unity.com/mg/other/webgl-builds-400020)
+<br/><img src="https://github.com/lluancarlo/UnityLearnProjects/assets/32052204/6793f089-7a4d-458c-b86c-b443dd30aa68" width="600" />
