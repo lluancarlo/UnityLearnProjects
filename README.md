@@ -35,11 +35,16 @@ Play it [HERE](https://play.unity.com/mg/other/webgl-builds-399314) !
 <br/><img src="https://github.com/lluancarlo/UnityLearnProjects/assets/32052204/fbe27df5-afa3-4b56-a9bb-03221f737dc3" width="600" />
 
 ### Challenge 2
-Send dogs to catch the ball falling!.<br/>
+Send dogs to catch the ball falling!<br/>
 Play it [HERE](https://play.unity.com/mg/other/webgl-builds-399482) !
 <br/><img src="https://github.com/lluancarlo/UnityLearnProjects/assets/32052204/02172d48-3d45-45ae-b4eb-684d3efdedf4" width="600" />
 
 ### Mod the Cube
 A cube that has random color every time you play it.<br/>
-Play on [play.unity.com](https://play.unity.com/mg/other/webgl-builds-400020)
+Play it [HERE](https://play.unity.com/mg/other/webgl-builds-400020) !
 <br/><img src="https://github.com/lluancarlo/UnityLearnProjects/assets/32052204/6793f089-7a4d-458c-b86c-b443dd30aa68" width="600" />
+
+### Prototype 3
+Jump above obstacles to avoid them!<br/>
+Play it [HERE](https://play.unity.com/mg/other/webgl-builds-400164) !
+<br/><img src="https://github.com/lluancarlo/UnityLearnProjects/assets/32052204/56ff485b-187c-486c-a0f7-495bc7173a3f" width="600" />
