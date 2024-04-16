@@ -1,4 +1,4 @@
-# Unity Learn Projects
+  # Unity Learn Projects
 The projects on this repo are just a way for me to keep it organized. Feel free to check and complement anything if you feel so.<br/>
 Link to my [unity play profile](https://play.unity.com/u/lluancarlo).
 
@@ -48,3 +48,9 @@ Play it [HERE](https://play.unity.com/mg/other/webgl-builds-400020) !
 Jump above obstacles to avoid them!<br/>
 Play it [HERE](https://play.unity.com/mg/other/webgl-builds-400164) !
 <br/><img src="https://github.com/lluancarlo/UnityLearnProjects/assets/32052204/56ff485b-187c-486c-a0f7-495bc7173a3f" width="600" />
+
+### Challenge 3
+Bounce the balloon, get money and avoid bombs!<br/>
+Play it [HERE](https://play.unity.com/mg/other/webgl-builds-400358) !
+<br/><img src="https://github.com/lluancarlo/UnityLearnProjects/assets/32052204/0f384737-9896-47c0-8ce2-8d007d23928e" width="600" />
+
