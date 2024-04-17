@@ -9,6 +9,8 @@ public class SpawnManagerX : MonoBehaviour
 	private float spawnZMin = 15; // set min spawn Z
 	private float spawnZMax = 25; // set max spawn Z
 
+	public float enemySpeed = 50;
+	public float enemySpeedIncrement = 10;
 	public int enemyCount;
 	public int waveCount = 0;
 
@@ -42,6 +44,8 @@ public class SpawnManagerX : MonoBehaviour
 			Instantiate(powerupPrefab, GenerateSpawnPosition() + powerupSpawnOffset, powerupPrefab.transform.rotation);
 		}
 		// Spawn number of enemy balls based on wave number
+		enemySpeed += enemySpeedIncrement;
+		enemyPrefab.GetComponent<EnemyX>().speed = enemySpeed;
 		for (int i = 0; i < enemiesToSpawn; i++)
 		{
 			Instantiate(enemyPrefab, GenerateSpawnPosition(), enemyPrefab.transform.rotation);

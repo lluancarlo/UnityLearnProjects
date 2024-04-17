@@ -5,9 +5,11 @@ public class PlayerControllerX : MonoBehaviour
 {
 	private Rigidbody playerRb;
 	private float speed = 500;
+	private float boostSpeed = 300;
 	private GameObject focalPoint;
 
 	public bool hasPowerup;
+	public ParticleSystem bootsParticleSystem;
 	public GameObject powerupIndicator;
 	public int powerUpDuration = 5;
 
@@ -22,9 +24,16 @@ public class PlayerControllerX : MonoBehaviour
 
 	void Update()
 	{
+		bootsParticleSystem.transform.position = transform.position + new Vector3(0f, -0.5f, 0f);
 		// Add force to player in direction of the focal point (and camera)
 		float verticalInput = Input.GetAxis("Vertical");
 		playerRb.AddForce(focalPoint.transform.forward * verticalInput * speed * Time.deltaTime);
+		// Add boost
+		if (Input.GetKeyDown(KeyCode.Space))
+		{
+			bootsParticleSystem.Play();
+			playerRb.AddForce(focalPoint.transform.forward * verticalInput * boostSpeed * speed * Time.deltaTime);
+		}
 		// Set powerup indicator position to beneath player
 		powerupIndicator.transform.position = transform.position + new Vector3(0, -0.6f, 0);
 	}
