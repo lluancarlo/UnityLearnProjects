@@ -23,7 +23,7 @@ Play it [HERE](https://play.unity.com/mg/other/webgl-builds-399301) !
 ### Prototype 1
 Basic truck that you can drive forward and back, turning left and right to go down the road and avoid obstacles.<br/>
 Play it [HERE](https://play.unity.com/mg/other/webgl-builds-399295) !
-<br/><img src="https://github.com/lluancarlo/UnityLearnProjects/assets/32052204/a8fcacb4-ef96-47c7-af68-c6bed8cb5d8c" width="600" />
+<br/><img src="https://github.com/lluancarlo/UnityLearnProjects/assets/32052204/866ee5fc-f3bc-4910-b786-ddc4f1da9f90" width="600" />
 
 ### Prototype 2
 Feed animals running towards you with pizza!.<br/>
