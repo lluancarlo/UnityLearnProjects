@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 7190901031750417096}
   m_Layer: 0
   m_Name: Skull_01
-  m_TagString: Untagged
+  m_TagString: BadTrigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -125,6 +125,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 34f9be1c941a7ca4bb75ade3b8a09736, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  score: -5
+  particle: {fileID: 2088871590894813759, guid: 745208c9d6e104225bd99e1ab894e3bb, type: 3}
 --- !u!65 &7190901031750417096
 BoxCollider:
   m_ObjectHideFlags: 0
