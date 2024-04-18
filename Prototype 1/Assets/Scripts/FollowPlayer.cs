@@ -9,5 +9,6 @@ public class FollowPlayer : MonoBehaviour
 	void LateUpdate()
 	{
 		transform.position = player.transform.position + offset;
+		transform.rotation = player.transform.rotation;
 	}
 }
