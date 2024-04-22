@@ -85,3 +85,9 @@ Play it [HERE](https://play.unity.com/mg/other/webgl-builds-400020) !
 You have 60 seconds to get and hold as long as you can.<br/>
 Play it [HERE](https://play.unity.com/mg/other/webgl-builds-401775) !
 <br/><img src="https://github.com/lluancarlo/UnityLearnProjects/assets/32052204/ea9b6db5-d2bb-4e8b-a50e-5e07f8997a0b" width="600" />
+
+### Debug the App
+Fix all errors of the project provided.<br/>
+Play it [HERE](https://play.unity.com/mg/other/webgl-builds-401777) !
+<br/><img src="https://github.com/lluancarlo/UnityLearnProjects/assets/32052204/93263680-5d85-468e-86b4-01e040ba3fcc" width="600" />
+
