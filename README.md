@@ -1,7 +1,8 @@
 # Unity Learn Projects
 The projects on this repo are just a way for me to keep it organized. Feel free to check and complement anything if you feel so.<br/>
-Link to my [unity play profile](https://play.unity.com/u/lluancarlo).
+profiles: [unity play](https://play.unity.com/u/lluancarlo) | [unity learn](https://learn.unity.com/u/lluancarlo).<br/>
 
+On this repo:<br/>
 [Prototypes](#Prototypes)<br/>
 [Challenges](#Challenges)<br/>
 [Miscellaneous](#Miscellaneous)<br/>
