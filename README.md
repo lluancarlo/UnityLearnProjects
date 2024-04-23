@@ -91,3 +91,8 @@ Fix all errors of the project provided.<br/>
 Play it [HERE](https://play.unity.com/mg/other/webgl-builds-401777) !
 <br/><img src="https://github.com/lluancarlo/UnityLearnProjects/assets/32052204/93263680-5d85-468e-86b4-01e040ba3fcc" width="600" />
 
+### Data Persistence
+This project has implemented data persistence between scenes and sessions.<br/>
+Play it [HERE](https://play.unity.com/mg/other/webgl-builds-401868) !
+<br/><img src="https://github.com/lluancarlo/UnityLearnProjects/assets/32052204/8bf7e0b0-132d-490b-aace-2750675b85da" width="600" />
+
