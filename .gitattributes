@@ -1,5 +1,5 @@
 # linguist overrides
-Assets/TextMesh?Pro/** linguist-vendored
+Prototype 1/Assets/TextMesh?Pro/** linguist-vendored
 
 ## Unity ##
 *.cs diff=csharp text
